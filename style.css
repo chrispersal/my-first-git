@@ -1,0 +1,19 @@
+body {
+  background-color: lightpink;
+}
+
+.handwriting {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: coral;
+  font-family: "Brush Script MT", serif;
+  font-size: 400%;
+}
+
+.axolotl {
+  display: block;
+  width: 40px;
+  margin-right: auto;
+  margin-left: auto;
+}
